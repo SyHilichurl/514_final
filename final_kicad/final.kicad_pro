@@ -488,10 +488,10 @@
       "idf": "",
       "netlist": "",
       "plot": "../",
-      "pos_files": "",
+      "pos_files": "C:/Users/Acer/Desktop/",
       "specctra_dsn": "",
-      "step": "",
-      "svg": "",
+      "step": "C:/Users/Acer/Desktop/final.step",
+      "svg": "C:/Users/Acer/Desktop/",
       "vrml": ""
     },
     "page_layout_descr_file": ""
